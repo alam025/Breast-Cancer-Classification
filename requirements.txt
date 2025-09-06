@@ -1,0 +1,22 @@
+# Breast Cancer Classification Neural Network - Requirements
+
+# Core Data Science Libraries
+numpy>=1.21.0
+pandas>=1.3.0
+
+# Deep Learning Framework
+tensorflow>=2.8.0
+keras>=2.8.0
+
+# Machine Learning Tools
+scikit-learn>=1.0.0
+
+# Visualization Libraries
+matplotlib>=3.4.0
+
+# Jupyter Environment
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Additional Utilities
+scipy>=1.7.0
