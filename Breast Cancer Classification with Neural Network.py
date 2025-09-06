@@ -245,6 +245,7 @@ print(accuracy)
 
 # In[62]:
 
+# Clinical Validation and Medical Metrics
 
 print(X_test_std.shape)
 print(X_test_std[0])
