@@ -177,7 +177,7 @@ from tensorflow import keras
 
 
 # In[55]:
-
+# Neural Network Architecture Improvements
 
 #Setting up the layers of Neural Network
 
@@ -211,7 +211,7 @@ history = model.fit(X_train_std,Y_train,validation_split=0.1,epochs =10)
 # #Visualizing accuracy and loss
 
 # In[58]:
-
+# Medical Data Visualization Enhancements
 
 plt.plot(history.history['accuracy'])
 plt.plot(history.history['val_accuracy'])
@@ -245,6 +245,7 @@ print(accuracy)
 
 # In[62]:
 
+# Clinical Validation and Medical Metrics
 
 print(X_test_std.shape)
 print(X_test_std[0])
