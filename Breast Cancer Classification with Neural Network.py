@@ -177,7 +177,7 @@ from tensorflow import keras
 
 
 # In[55]:
-
+# Neural Network Architecture Improvements
 
 #Setting up the layers of Neural Network
 
