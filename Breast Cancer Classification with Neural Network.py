@@ -213,6 +213,7 @@ history = model.fit(X_train_std,Y_train,validation_split=0.1,epochs =10)
 # In[58]:
 # Medical Data Visualization Enhancements
 
+#Line chart
 plt.plot(history.history['accuracy'])
 plt.plot(history.history['val_accuracy'])
 
