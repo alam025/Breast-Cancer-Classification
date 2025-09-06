@@ -211,7 +211,7 @@ prediction = model.predict(standardized_input)
 
 ## 🔮 Future Enhancements
 
-- [ ] **Advanced Architectures**: Implement CNN for image-based analysis
+- [ ] **Advanced Architectures**: Implement CNN for image-based analysis and image detection
 - [ ] **Hyperparameter Tuning**: Grid search optimization
 - [ ] **Cross-Validation**: K-fold validation for robustness
 - [ ] **Feature Importance**: Analysis of most predictive features
